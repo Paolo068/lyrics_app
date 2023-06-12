@@ -1,0 +1,9 @@
+
+
+Les modifications suivantes sont a apporter aux fichiers FR.json et EN.json
+
+1. Pour chaque chanson, ajouter une entree 'ID' avec pour valeur le numero
+de la chanson tel que present dans le PDF.
+
+2. Parcourir le texte de chaque chanson et ajouter un charactere de 
+renvoi a la ligne ('\n') apres chaque vers.
